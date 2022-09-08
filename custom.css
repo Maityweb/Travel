@@ -1,0 +1,19 @@
+.rock_image{
+	background: url("background.jpg")no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+	
+}
+h1{
+	color: pink;
+}
+.rock_wrapper{
+	color: white;
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
